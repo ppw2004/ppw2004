@@ -31,9 +31,9 @@
 ## 🏙️ 3D Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-3d-contrib-night-green.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-3d-contrib.svg"/>
-  <img src="profile-3d-contrib/profile-3d-contrib.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg"/>
+  <img src="profile-3d-contrib/profile-green.svg" width="100%"/>
 </picture>
 
 ## 🐍 Watch the snake eat my contributions
